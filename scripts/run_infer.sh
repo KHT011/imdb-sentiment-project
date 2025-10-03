@@ -1,0 +1,1 @@
+python src/infer.py --model_path models/nb_tfidf_model.joblib --text "This movie was absolutely fantastic! I loved every moment of it."

@@ -1,0 +1,1 @@
+python src\train_baselines.py --data_path data\IMDB_clean.csv --val_size 0.1 --test_size 0.2 --seed 42 --max_features 200000 --ngrams 2 --n_jobs -1

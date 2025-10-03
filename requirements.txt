@@ -1,0 +1,11 @@
+pandas
+numpy
+ipykernel
+scikit-learn
+matplotlib
+tqdm
+joblib
+regex
+nltk
+shap
+lime

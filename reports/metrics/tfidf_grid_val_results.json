@@ -1,0 +1,23 @@
+[
+  {
+    "model": "nb",
+    "best_params": {
+      "clf__alpha": 0.1
+    },
+    "val_f1_macro": 0.8752465614833509
+  },
+  {
+    "model": "lr",
+    "best_params": {
+      "clf__C": 2.0
+    },
+    "val_f1_macro": 0.8982393087673773
+  },
+  {
+    "model": "svm",
+    "best_params": {
+      "clf__C": 1.0
+    },
+    "val_f1_macro": 0.9037426302951319
+  }
+]
